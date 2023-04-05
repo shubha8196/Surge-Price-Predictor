@@ -8,7 +8,6 @@ Easy Cabs is a ML-assisted web-based application which helps you in getting the 
 ## Background
 Uber and Lyft account for the major market capitalization for offering cab services on an app. But these prices are not constant like public transportation. They are greatly affected by the demand and supply of rides at a given time. So what exactly drives this demand? Some of the factors include weather changes, rush hours and location. EasyCabs takes into account these factors and tries to replicate a prototypical version of the pricing and surging microservices for these apps. It also offers an opportunity to retrain models using a feedback loop as a separate microservice.
 
-
 ## Authors
 - [Nayantara Mohan](https://github.com/nayantaramohan)  
 - [Rohit Lokwani](https://github.com/rohitl17)  
